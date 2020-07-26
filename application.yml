@@ -1,0 +1,9 @@
+my:
+   greeting: Hello World from Config Server   
+   list:
+        values: One,Two,Three,Four
+
+db:
+   conn: "{conn: 'http://....', userName: 'foo', password: 'pass'}"
+   host: 127.0.0.1
+   port: 1200
